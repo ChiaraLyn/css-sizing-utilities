@@ -1,4 +1,4 @@
-# CSS Sizing Utilites
+# CSS Sizing Utilities
 
 With a 10 px interval, here's a list of css classes that can be useful for sizing elements.
 
